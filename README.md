@@ -1,2 +1,2 @@
-### counddown-timer
+### countdown-timer
 Программа создания таймера обратного отсчета
